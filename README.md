@@ -2,8 +2,6 @@
 
 In this project, I analyzed a bike company's data to understand factors customers consider before making a purchase decision. The final output is an Excel dashboard providing a comprehensive overview of bike sales data, allowing stakeholders to analyze trends, identify patterns, and make informed decisions.
 
-> **Disclaimer:** All datasets and reports used in this project are dummy data and do not represent any institution, company, or country.
-
 ---
 
 ## Data Sourcing
@@ -67,9 +65,3 @@ The analysis reveals key insights about bike purchasers:
 To view the dashboard:
 1. Download the Excel file from this repository.
 2. Open it in Excel and navigate to the "Dashboard" sheet for an interactive experience.
-
----
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
