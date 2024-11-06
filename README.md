@@ -37,7 +37,9 @@ Four pivot tables were created to summarize the data and reveal trends, focusing
 
 A user-friendly dashboard was created by customizing pivot charts and adding three slicers for interactivity.
 
-![Snippet of the Final Dashboard in Excel](path/to/dashboard-screenshot.png) *(Replace with the actual path to your screenshot)*
+![salesBikeEexcelDashboard](https://github.com/user-attachments/assets/8cd131e2-5c58-4d6e-a737-a591608d4edd)
+![Picture4](https://github.com/user-attachments/assets/6edf50e9-f06d-420a-a6e2-6700fb7a64f6)
+![Picture5](https://github.com/user-attachments/assets/48463dfd-3325-4d66-9d0f-4c41d8408e71)
 
 ---
 
